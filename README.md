@@ -150,12 +150,4 @@ after starting the both Frontend and Backend server you can access application o
 
 
 
-## Authors
 
-- [@narendercoder](https://github.com/narendercoder)
-- [@niteshtiwari52](https://github.com/niteshtiwari52)
-- [@Rituresh143](https://github.com/Rituresh143)
-
-## Feedback
-
-If you have any feedback or Suggestion, please reach out to us at etalkhelp12@gmail.com
